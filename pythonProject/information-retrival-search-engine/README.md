@@ -19,7 +19,7 @@ docker run --publish=8001:8000 information_retrival:version1
 ```
 Note: The django website will now be available on port 8001 instead of 8000
 
-## To run locally without Docker (Sorry Bhavya) 
+## To run locally without Docker 
 
 ### Requirments
 - Run pip install -r requirements.txt
